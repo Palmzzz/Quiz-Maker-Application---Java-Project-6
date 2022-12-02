@@ -1,4 +1,4 @@
-My fifth project was to create a “Quiz Wizard’ application 
+My fifth project was to create a Quiz Maker/Manager application 
 
 This project allowed me to develop my own specification analysis skills, as well as making informed design choices. 
 
